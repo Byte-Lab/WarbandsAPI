@@ -12,4 +12,5 @@ ZachBora - Suggestions and Ideas, the name Warbands
 
 IRC: irc.esper.net:6667 #warbands
 
-Suggestions: For API suggestions please use the issuetracker.
+Suggestions: For API suggestions please use the [issuetracker](https://github.com/Byte-Lab/WarbandsAPI/issues).
+
