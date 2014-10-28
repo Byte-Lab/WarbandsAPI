@@ -37,7 +37,7 @@ jar.manifest.mainAttributes(
 	"Built-By": System.properties['user.name'],
 	"Created-By": System.properties['java.vm.version'] + " (" + System.properties['java.vm.vendor'] + ")",
 	"Implementation-Title": name,
-	"Implementation-Version": version + "-" + ciSystem + "-" + buildNumber + " (" + commit + ")",
+	"Implementation-Version": version + "-ci." + ciSystem + "-" + buildNumber + " (commit." + commit + ")",
 	"Implementation-Vendor": url
 )
 
