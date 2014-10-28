@@ -1,5 +1,5 @@
 Copyright (c) ${inceptionYear}-${currentYear}
-${organization} <${url}}>
+${organization} <${url}>
 
 This file is part of ${name}.
 
