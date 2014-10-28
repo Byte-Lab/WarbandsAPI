@@ -1,5 +1,6 @@
 WarbandsAPI
 ===========
+[![Build Status](https://snap-ci.com/Byte-Lab/Warbands/branch/master/build_image)](https://snap-ci.com/Byte-Lab/Warbands/branch/master)
 
 The addon API for the Warbands plugin
 
