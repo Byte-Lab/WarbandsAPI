@@ -15,3 +15,6 @@ IRC: irc.esper.net:6667 [#warbands](http://webchat.esper.net/?nick=User...&chann
 
 Suggestions: For API suggestions please use the [issuetracker](https://github.com/Byte-Lab/WarbandsAPI/issues).
 
+#####How to set up your workspace:
+
+Clone the project. Then, in the projects directory run `gradle idea` or `gradle eclipse` depending on your IDE. You now have all the necessary files to start developing.
