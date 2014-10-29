@@ -17,4 +17,4 @@ Suggestions: For API suggestions please use the [issuetracker](https://github.co
 
 #####How to set up your workspace:
 
-Clone the project. Then, in the projects directory run `gradle idea` or `gradle eclipse` depending on your IDE. You now have all the necessary files to start developing.
+Clone the project. Then, in the projects directory run `gradlew idea` or `gradlew eclipse` depending on your IDE. You now have all the necessary files to start developing.
