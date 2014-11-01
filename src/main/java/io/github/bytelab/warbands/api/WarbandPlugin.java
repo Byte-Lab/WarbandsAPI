@@ -19,5 +19,13 @@
  */
 package io.github.bytelab.warbands.api;
 
-public class WarbandPlugin {
+import org.bukkit.plugin.java.JavaPlugin;
+
+import java.util.logging.Logger;
+
+
+public class WarbandPlugin extends JavaPlugin {
+
+    public Logger logger = getLogger();
+
 }
